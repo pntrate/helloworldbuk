@@ -1,0 +1,15 @@
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\bin\Debug\net8.0\HelloWorldBuk.exe
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\bin\Debug\net8.0\HelloWorldBuk.deps.json
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\bin\Debug\net8.0\HelloWorldBuk.runtimeconfig.json
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\bin\Debug\net8.0\HelloWorldBuk.dll
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\bin\Debug\net8.0\HelloWorldBuk.pdb
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.AssemblyInfo.cs
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.sourcelink.json
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.dll
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\refint\HelloWorldBuk.dll
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.pdb
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\HelloWorldBuk.genruntimeconfig.cache
+D:\PROGRAMMING\C#_WORKSPACE\.NET\Projects\helloworldbuk\HelloWorldBuk\obj\Debug\net8.0\ref\HelloWorldBuk.dll
