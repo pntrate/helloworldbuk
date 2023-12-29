@@ -1,15 +1,7 @@
-﻿int n = int.Parse(Console.ReadLine());
-int[] first = new int[n];
-int[] second = new int[n];
-for (int i = 0; i < n; i++)
+﻿string s = Console.ReadLine();
+bool check = false;
+for (int i = 0, j = s.Length - 1; i < s.Length/2 ; i++,j--)
 {
-    first[i] = int.Parse(Console.ReadLine());
+    check = (s[i] == s[j]) ? true : false;
 }
-for (int i = 0; i < n; i++)
-{
-    second[i] = int.Parse(Console.ReadLine());
-}
-for (int i = 0;i < n; i++)
-{
-    Console.WriteLine(first[i] * second[i]);
-}
+Console.WriteLine(check);
