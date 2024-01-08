@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloWorldBuk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8992ba611d5b20c2e825b1c5ad15f8c55dcb2571")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3e8ec17dd342986ea1881d9cf1068ebecdfb93")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloWorldBuk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloWorldBuk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

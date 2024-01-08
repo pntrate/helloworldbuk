@@ -1,7 +1,10 @@
 ﻿string s = Console.ReadLine();
-bool check = false;
-for (int i = 0, j = s.Length - 1; i < s.Length/2 ; i++,j--)
+bool check = true;
+for (int i = 0, j = s.Length - 1; i < s.Length / 2; i++, j--)
 {
-    check = (s[i] == s[j]) ? true : false;
+    if (s[i] != s[j])
+    {
+        check = false; break;
+    }
 }
 Console.WriteLine(check);
