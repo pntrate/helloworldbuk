@@ -1,10 +1,11 @@
-﻿string s = Console.ReadLine();
-bool check = true;
-for (int i = 0, j = s.Length - 1; i < s.Length / 2; i++, j--)
+﻿string vowels = "aeiouAEIOU";
+string s = Console.ReadLine();
+for (int i = 0; i < s.Length; i++)
 {
-    if (s[i] != s[j])
+    if (vowels.Contains(s[i]))
     {
-        check = false; break;
+        s = s.Remove(i, 1);
+        i--;
     }
 }
-Console.WriteLine(check);
+Console.WriteLine(s);
